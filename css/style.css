@@ -1,0 +1,18 @@
+.fællesgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.border {
+  list-style: none;
+  padding: 3em 3em;
+  margin: 5px;
+  border: 1px solid rgb(147, 147, 100);
+  text-align: center;
+  color: rgb(147, 147, 100);
+  background-color: rgb(147, 147, 100);
+}
+li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
