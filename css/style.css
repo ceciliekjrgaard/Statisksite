@@ -93,13 +93,11 @@ h2 {
   border: 1px solid rgb(147, 147, 100);
   padding: 1rem;
   position: relative;
-  border-radius: 10%;
 }
 .product_card img {
   width: 100%;
   height: auto;
   object-fit: cover;
-  border-radius: 10%;
 }
 
 /* .soldout .soldout_tag {
